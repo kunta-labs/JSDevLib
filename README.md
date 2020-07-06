@@ -6,4 +6,6 @@ getAllMetrics(<Blockchain ID>, <endpoint type>, <Parameter 1>, <Parameter 1>, <P
 ```
 
 ## submitOutput Usage (input transactions work the same way)
+```javascript
 submitOutput(<Blockchain ID>, <endpoint type>, <Parameter 1>, <Parameter 1>, <Parameter 1>)
+```
